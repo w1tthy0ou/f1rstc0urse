@@ -1,0 +1,41 @@
+clang++-7 -pthread -std=c++17 -o main main.cpp
+main.cpp:48:54: warning: unsequenced modification and access to 'b'
+      [-Wunsequenced]
+  ..."incremented pointer to array (" << ++b << ") with value " << *b << std:...
+                                         ^                          ~
+1 warning generated.
+
+
+./main
+null pointer = 0
+a = 123
+pointer a_ptr (0x7ffce1224824) with value 123
+pointer to array (0x1ce6280) with value 0
+incremented pointer to array (0x1ce6284) with value 1
+difference = 4bytes
+proof that a[i] = i[a] = *(a+i)
+b[2] = 2
+2[b] = 2
+raw pointer
+Entity E0 created!
+Entity E0 deleted!
+raw pointer to object in stack in scoupe
+Entity E2 created!
+E2
+Entity E2 deleted!
+E2
+raw pointer in scoupe
+Entity E3 created!
+e3 still isn't deleted
+smart unique_ptr
+Entity E4 created!
+Entity E4 deleted!
+smart shared_ptr, E6 refrences E5
+Entity E5 created!
+e5 still exists at e6 variable
+Entity E5 deleted!
+smart weak_ptr
+Entity E8 created!
+Entity E8 deleted!
+e7 expired
+

@@ -1,1 +1,8 @@
-# pr0gramm1ng_f1rst
+### first project
+
+### description
+
+The simplest git project
+
+### requirements
+* go to your `github` dashboard

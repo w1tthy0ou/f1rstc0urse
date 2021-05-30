@@ -1,0 +1,23 @@
+link .cpp --> https://replit.com/@dodiyth/lab7#main.cpp
+
+Init program...
+Sat May 29 08:13:27 2021
+ =>	Multyplying a(3) and b(5) with result => 15
+Sat May 29 08:13:27 2021
+ =>	Multyplying a(4) and b(6) with result => 24
+Sat May 29 08:13:27 2021
+ =>	Multyplying a(5) and b(7) with result => 35
+Sat May 29 08:13:27 2021
+ =>	Multyplying a(6) and b(8) with result => 48
+Sat May 29 08:13:27 2021
+ =>	Multyplying a(7) and b(9) with result => 63
+Sat May 29 08:13:27 2021
+ =>	Multyplying a(8) and b(10) with result => 80
+Sat May 29 08:13:27 2021
+ =>	Multyplying a(9) and b(11) with result => 99
+Sat May 29 08:13:27 2021
+ =>	Multyplying a(10) and b(12) with result => 120
+Sat May 29 08:13:27 2021
+ =>	Multyplying a(11) and b(13) with result => 143
+Sat May 29 08:13:27 2021
+ =>	Multyplying a(12) and b(14) with result => 168

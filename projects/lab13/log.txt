@@ -1,0 +1,27 @@
+Printing custom class vectors:
+(2, 3, 5) (3, 5, 11)
+Acces to coordinates with operator[]:
+3
+Adding and substracting custom class vectors:
+(5, 8, 16)
+(-1, -2, -6)
+operator+= and operator-= overrides
+(6, 6, 7)
+(2, 3, 5)
+Printing custom class points:
+point(0, 0, 0) point(1, 2, 3)
+Adding and substracting custom class vectors to ppoints:
+point(1, 2, 3)
+point(-1, -2, -3)
+operator+= and operator-= overrides
+point(5, 5, 5)
+point(1, 2, 3)
+Printing custom class shapes:
+shape(0, 0, 0) : (1, 1, 1) shape(0, 0, 0) : 5
+Changing custom class shapes using vetors:
+point(2, 1, 2) : (1, 1, 1) point(5, 6, 3) : 5
+Changing custom class shapes using methods:
+shape(0, 0, 0) : (3, -2, 3) point(5, 6, 3) : 8
+Does point belong to shape using call operator:
+point(1, 2, 3) belongs to shape
+Cin in point (takes x, y, z):

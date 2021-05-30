@@ -1,0 +1,23 @@
+https://replit.com/@dodiyth/lab7#main.cpp
+
+string compare
+str1 : Hello world!
+str2 : hello world
+-32
+
+replace part of string
+origin: Hello world!
+Hello weltd!
+
+string concatenation
+origin: Hello weltd!; hello world
+Hello weltd! hello world
+Hello weltd! hello world
+
+substring
+origin: Hello weltd! hello world
+Hello weltd! 
+
+Insert
+origin: Hello weltd! 
+Hello world weltd! 
